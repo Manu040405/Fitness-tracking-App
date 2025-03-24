@@ -30,7 +30,7 @@
 
 ## 📸 UI Preview
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Manu040405/Fitness-tracking-App/main/screenshots/login.png" alt="Login Page" width="600"/>
+  <img src="" alt="Login Page" width="600"/>
   <p align="center"><strong>🔐 Login Page</strong></p>
 </p>
 
@@ -121,18 +121,6 @@ Fitness-tracking-App/
    # Start command
    streamlit run app.py
    ```
-
-3. **Local Docker Deployment**
-   ```dockerfile
-   FROM python:3.8-slim
-   WORKDIR /app
-   COPY requirements.txt .
-   RUN pip install -r requirements.txt
-   COPY . .
-   EXPOSE 8501
-   CMD ["streamlit", "run", "app.py"]
-   ```
-
 ---
 
 ## 🧠 Machine Learning Details
@@ -151,11 +139,9 @@ Special thanks to Dr. Saomya Chaudhury for mentorship, and to all peers and cont
 ---
 
 ## 📬 Contact & Connect
-- **Manu Reddy**
-- 📧 [your-email@example.com]
+- **Manogna Perka**
+- 📧 [manogna.perka2005@gmail.com]
 - 🔗 [GitHub Profile](https://github.com/Manu040405)
 
 ---
 
-## 📄 License
-[Add your license here, e.g., MIT License]
