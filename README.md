@@ -30,32 +30,32 @@
 
 ## 📸 UI Preview
 <p align="center">
-  <img src="" alt="Login Page" width="600"/>
+  <img src="https://github.com/Manu040405/Fitness-tracking-App/blob/main/login_page.png" alt="Login Page" width="600"/>
   <p align="center"><strong>🔐 Login Page</strong></p>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Manu040405/Fitness-tracking-App/main/screenshots/register.png" alt="Register and Profile Setup" width="600"/>
+  <img src="https://github.com/Manu040405/Fitness-tracking-App/blob/main/register.png" alt="Register and Profile Setup" width="600"/>
   <p align="center"><strong>📝 Register and Profile Setup</strong></p>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Manu040405/Fitness-tracking-App/main/screenshots/dashboard.png" alt="Dashboard + Calorie Burn Prediction" width="600"/>
+  <img src="https://github.com/Manu040405/Fitness-tracking-App/blob/main/dashboard.png" alt="Dashboard + Calorie Burn Prediction" width="600"/>
   <p align="center"><strong>📊 Dashboard + Calorie Burn Prediction</strong></p>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Manu040405/Fitness-tracking-App/main/screenshots/progress.png" alt="Progress Tracker" width="600"/>
+  <img src="https://github.com/Manu040405/Fitness-tracking-App/blob/main/progress-tracking.png" alt="Progress Tracker" width="600"/>
   <p align="center"><strong>📈 Progress Tracker</strong></p>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Manu040405/Fitness-tracking-App/main/screenshots/weight.png" alt="Weight Tracker" width="600"/>
+  <img src="https://github.com/Manu040405/Fitness-tracking-App/blob/main/weight%20tracker.png" alt="Weight Tracker" width="600"/>
   <p align="center"><strong>⚖️ Weight Tracker</strong></p>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Manu040405/Fitness-tracking-App/main/screenshots/recommendations.png" alt="AI Workout Recommendations" width="600"/>
+  <img src="https://github.com/Manu040405/Fitness-tracking-App/blob/main/ai-recom.png" alt="AI Workout Recommendations" width="600"/>
   <p align="center"><strong>🏋️‍♀️ AI Workout Recommendations</strong></p>
 </p>
 
